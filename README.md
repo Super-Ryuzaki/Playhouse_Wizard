@@ -1,4 +1,5 @@
-# Playhouse_Wizard
+# Playhouse Wizard
+
 ## The Tool That Brings Magic to IT
 
 ## How to Use
